@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(0, 8, 28, 0.89);
+}
+h1{
+    font-family: 'Bebas Neue', display;
+    text-align: center;
+    font-size: 60px;
+    color:white;
+}
+
+p{
+    text-align: center;
+    color: rgb(215, 208, 253);
+}
